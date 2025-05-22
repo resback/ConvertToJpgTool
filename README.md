@@ -12,7 +12,7 @@
 
 ## 🔧 Instalación
 1. **Publica la aplicación en Visual Studio** (como `self-contained` o `framework-dependent`).  
-2. **Ejecuta `Registrar_Opcion.bat`** para registrar la opción en el menú contextual.  
+2. **Ejecuta `ContextMenu.bat`** para registrar la opción en el menú contextual.  
 3. **Coloca el ejecutable en la ruta deseada** y asegúrate de incluir todas sus dependencias.  
 4. **Haz clic derecho sobre una imagen y selecciona "Convertir a JPG"** para probar la conversión.  
 
