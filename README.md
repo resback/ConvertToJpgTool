@@ -24,3 +24,5 @@ ConvertToJpgTool.exe C:\ruta\a\imagen.png
 ## Para procesar múltiples imágenes:
 
 ConvertToJpgTool.exe C:\ruta\a\imagen1.png C:\ruta\a\imagen2.bmp
+
+[Tutorial paso a paso](https://mirandamx.dev/wp-admin/edit.php?post_type=post)
