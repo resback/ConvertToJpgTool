@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConvertToJpgTool": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Resback\\Downloads\\80ff6efd-5ff8-465d-b99d-29ec023fb98f.png\""
+    }
+  }
+}
